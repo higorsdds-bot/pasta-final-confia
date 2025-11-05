@@ -1,1 +1,1 @@
-print (" Elou mundo ")
+import jpg 
